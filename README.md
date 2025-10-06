@@ -7,17 +7,29 @@ The Dataset used contains 3530 images for training, 801 for validation, and 638 
 
 Results:
 
+<img width="838" height="353" alt="13" src="https://github.com/user-attachments/assets/02bff0f4-5bfa-49f3-af07-baa7e61cdeb9" />
+
+---
+
+<img width="821" height="686" alt="12" src="https://github.com/user-attachments/assets/a06cd4fd-5062-40ff-bfee-1ad3b9e0b4e6" />
+
+---
+
+<img width="861" height="692" alt="11" src="https://github.com/user-attachments/assets/b99c72c1-9736-4d75-962e-f0a13fa97875" />
+
+---
+
+<img width="832" height="711" alt="15" src="https://github.com/user-attachments/assets/06d137b5-b7aa-49da-ae9c-48adf692cc56" />
+
+---
+
+<img width="832" height="682" alt="14" src="https://github.com/user-attachments/assets/1a54ff76-497d-447f-b1f9-958ab930d98b" />
+
+---
 <img width="950" height="509" alt="__results___18_0" src="https://github.com/user-attachments/assets/122b0eba-533c-43fd-b4fa-24a3274670ab" />
 
 ---
 
 <img width="950" height="664" alt="__results___24_0" src="https://github.com/user-attachments/assets/c594ff95-3590-4666-91e1-e610a74a9adf" />
 
----
-
-<img width="950" height="741" alt="__results___25_0" src="https://github.com/user-attachments/assets/73087349-5892-4dcc-b630-561a7bd6e994" />
-
----
-
-<img width="701" height="6202" alt="__results___32_0" src="https://github.com/user-attachments/assets/ee10c77c-c307-4702-b588-7d37436b8ce1" />
 
